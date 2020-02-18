@@ -1,0 +1,38 @@
+header{
+    background-color: black ;
+    text-align:center;
+    padding: 20px;
+    color: white;
+}
+
+footer{
+    text-align:center;
+    color:white;
+    padding:10px;
+    background-color: black;
+}
+img{
+    width:60%;
+}
+
+.button {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+#acceuil{
+    text-align: center;
+    padding-top: 130px;
+    padding-bottom: 150px ;
+}
+
+#treat{
+    margin-left: 40px;
+}
